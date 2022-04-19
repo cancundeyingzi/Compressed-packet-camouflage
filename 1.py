@@ -19,4 +19,4 @@ with open(filename, "rb") as f:
                     f1.write(old)
                     if not old:
                         break
-#gui使用可视化pyqt5(qt设计师),头文件自己导入
+#gui使用可视化pyqt5(qt设计师),头文件自己导入,目前还在优化,解耦合,现阶段乱七八糟的就不放出来了
